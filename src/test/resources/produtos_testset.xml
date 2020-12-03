@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <produto id="1" nome="Livro - Como Quebrar Software: 1001 receitas pra deixar DEV puto" preco="55.0" />
+    <produto id="2" nome="Livro - Como NÃO Quebrar Software: 1001 receitas pra desenvolver bem e deixar um tester arrancar os cabelos" preco="55.0" />
+</dataset>
